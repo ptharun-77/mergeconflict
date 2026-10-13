@@ -1,0 +1,1 @@
+this is the file created to detect and solve the conflicts
